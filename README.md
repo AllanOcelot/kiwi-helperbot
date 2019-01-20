@@ -1,4 +1,4 @@
-# irc-bot-notifymeonline
+# Kiwi Helperbot
 A very simple nodeJS bot made for Kiwi IRC to help our new users get our bearings.
 
 ## Run
